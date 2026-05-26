@@ -1,0 +1,1056 @@
+# Generative AI (GenAI) — Short Description
+
+Generative AI (GenAI) is a type of Artificial Intelligence that can create new content such as:
+
+* text
+* images
+* videos
+* code
+* audio
+* chat responses
+
+using large AI models trained on huge amounts of data.
+
+Examples:
+
+* OpenAI ChatGPT
+* Google Gemini
+* Anthropic Claude
+
+---
+
+# Present Market Situation of GenAI
+
+Currently, GenAI is one of the fastest-growing technologies in the world.
+
+Companies are heavily investing in:
+
+* AI chatbots
+* AI agents
+* Automation
+* AI coding assistants
+* AI search systems
+* AI business tools
+
+Industries using GenAI:
+
+* Healthcare
+* Banking
+* Education
+* Software companies
+* Customer support
+* Marketing
+* Cybersecurity
+
+---
+
+# Most Important Skills to Focus On in 2026
+
+## 1. Python Programming
+
+Most AI tools use Python.
+
+Focus:
+
+* loops
+* functions
+* APIs
+* file handling
+
+---
+
+## 2. Prompt Engineering
+
+Writing smart prompts for AI models.
+
+Example:
+
+```text id="0o5v2w"
+Act as a medical expert and explain diabetes simply.
+```
+
+---
+
+## 3. LLMs (Large Language Models)
+
+Understand:
+
+* tokens
+* embeddings
+* transformers
+* context windows
+
+Popular models:
+
+* GPT
+* Gemini
+* Claude
+* Llama
+
+---
+
+## 4. AI APIs
+
+Learn APIs from:
+
+* [OpenAI Platform](https://platform.openai.com?utm_source=chatgpt.com)
+* [Google AI Studio](https://aistudio.google.com?utm_source=chatgpt.com)
+* [Anthropic Claude](https://www.anthropic.com/claude?utm_source=chatgpt.com)
+
+---
+
+## 5. RAG (Retrieval-Augmented Generation)
+
+Very high demand skill.
+
+Used for:
+
+* PDF chatbots
+* company AI assistants
+* search systems
+
+Learn:
+
+* LangChain
+* FAISS
+* Vector databases
+
+---
+
+## 6. AI Agents
+
+Fastest growing field.
+
+AI agents can:
+
+* think
+* plan
+* use tools
+* automate workflows
+
+Tools:
+
+* LangGraph
+* CrewAI
+* n8n
+
+---
+
+## 7. Streamlit & FastAPI
+
+Needed to deploy AI applications.
+
+You can build:
+
+* AI chatbots
+* dashboards
+* AI tools
+* websites
+
+---
+
+## 8. Open Source Models
+
+Huge demand in companies.
+
+Learn:
+
+* [Hugging Face](https://huggingface.co?utm_source=chatgpt.com)
+* Llama
+* Mistral
+* DeepSeek
+* Qwen
+
+---
+
+# Current High Demand GenAI Jobs
+
+| Role               | Demand         |
+| ------------------ | -------------- |
+| AI Engineer        | Very High      |
+| Prompt Engineer    | High           |
+| GenAI Developer    | Very High      |
+| AI Agent Developer | Extremely High |
+| RAG Engineer       | High           |
+| LLM Engineer       | Very High      |
+
+---
+
+# Best Learning Path
+
+| Step | Focus              |
+| ---- | ------------------ |
+| 1    | Python             |
+| 2    | APIs               |
+| 3    | Prompt Engineering |
+| 4    | Streamlit          |
+| 5    | LangChain          |
+| 6    | RAG                |
+| 7    | AI Agents          |
+| 8    | Deployment         |
+
+---
+
+# Important Market Trend
+
+Companies now prefer people who can:
+
+* build AI projects
+* deploy apps
+* automate workflows
+* integrate APIs
+
+More than only theory.
+
+---
+
+# Best Projects to Build
+
+* AI chatbot
+* Resume analyzer
+* Medical chatbot
+* PDF chatbot
+* AI voice assistant
+* AI agent
+* Recommendation system
+
+These improve job opportunities strongly in current AI markets.
+
+
+# What is Generative AI (GenAI)?
+
+Generative AI (GenAI) is a type of Artificial Intelligence that can create new content like:
+
+* text
+* images
+* videos
+* music
+* code
+* chat responses
+
+by learning from large amounts of data.
+
+---
+
+# Simple Meaning
+
+Normal AI:
+
+* analyzes data
+* predicts answers
+
+GenAI:
+
+* creates new things
+
+Example:
+
+If you ask:
+
+```text id="w8yivw"
+Write a poem about cricket
+```
+
+GenAI can generate a completely new poem.
+
+---
+
+# Real-Life Examples
+
+| Application      | Example             |
+| ---------------- | ------------------- |
+| Chatbot          | OpenAI ChatGPT      |
+| Image Generation | AI art tools        |
+| Coding Assistant | GitHub Copilot      |
+| Voice AI         | AI voice assistants |
+| Video Creation   | AI video generators |
+
+---
+
+# Popular GenAI Models
+
+| Model  | Company   |
+| ------ | --------- |
+| GPT    | OpenAI    |
+| Gemini | Google    |
+| Claude | Anthropic |
+| Llama  | Meta      |
+
+---
+
+# How GenAI Works
+
+GenAI learns patterns from:
+
+* books
+* websites
+* images
+* code
+* conversations
+
+Then it predicts and generates new content.
+
+---
+
+# Example
+
+## Input
+
+```text id="jlwmk9"
+Explain cricket
+```
+
+## Output
+
+```text id="jlwmk8"
+Cricket is a popular sport played between two teams...
+```
+
+---
+
+# Technologies Behind GenAI
+
+## 1. LLMs (Large Language Models)
+
+Large AI models trained on huge data.
+
+Examples:
+
+* GPT
+* Gemini
+* Claude
+
+---
+
+## 2. Transformers
+
+Special AI architecture helping models understand context.
+
+---
+
+## 3. Tokens
+
+AI breaks text into small pieces called tokens.
+
+Example:
+
+```text id="jlwmk7"
+I love cricket
+```
+
+Tokens:
+
+```text id="jlwmk6"
+["I", "love", "cricket"]
+```
+
+---
+
+# Uses of GenAI
+
+| Industry   | Use                    |
+| ---------- | ---------------------- |
+| Education  | AI tutors              |
+| Healthcare | Medical assistants     |
+| Banking    | Customer support       |
+| IT         | Code generation        |
+| Marketing  | Content writing        |
+| Media      | Image/video generation |
+
+---
+
+# Simple Python Example
+
+Using Google Gemini:
+
+```python id="jlwmk5"
+import google.generativeai as genai
+
+genai.configure(api_key="YOUR_API_KEY")
+
+model = genai.GenerativeModel("gemini-2.0-flash")
+
+response = model.generate_content(
+    "What is AI?"
+)
+
+print(response.text)
+```
+
+---
+
+# Difference Between AI and GenAI
+
+| AI             | GenAI          |
+| -------------- | -------------- |
+| Predicts       | Creates        |
+| Analyzes       | Generates      |
+| Detects spam   | Writes email   |
+| Finds patterns | Creates images |
+
+---
+
+# Important Skills to Learn GenAI
+
+* Python
+* Prompt Engineering
+* APIs
+* LangChain
+* RAG
+* Streamlit
+* AI Agents
+
+---
+
+# Current Market Demand
+
+GenAI is growing rapidly in:
+
+* AI chatbots
+* AI agents
+* automation
+* healthcare AI
+* business AI tools
+
+Companies want developers who can:
+
+* build AI apps
+* use APIs
+* deploy chatbots
+* automate workflows
+
+---
+
+# Beginner Projects
+
+* AI chatbot
+* PDF chatbot
+* Resume analyzer
+* Medical chatbot
+* AI story generator
+
+---
+
+# Best Free Platforms to Learn
+
+* [Google Colab](https://colab.research.google.com?utm_source=chatgpt.com)
+* [Hugging Face](https://huggingface.co?utm_source=chatgpt.com)
+* [Kaggle](https://www.kaggle.com?utm_source=chatgpt.com)
+* [Streamlit](https://streamlit.io?utm_source=chatgpt.com)
+
+
+
+# How to Give Access from Google Colab to GitHub
+
+This allows you to:
+
+* push code to GitHub
+* save notebooks
+* upload projects
+* connect repositories
+
+---
+
+# Method 1: Connect GitHub Directly from Colab (Easy)
+
+## Step 1: Open Colab
+
+Open:
+
+[Google Colab](https://colab.research.google.com?utm_source=chatgpt.com)
+
+---
+
+## Step 2: Click GitHub
+
+Top Menu:
+
+```text id="0fx1ml"
+File → Save a copy in GitHub
+```
+
+---
+
+## Step 3: Authorize GitHub
+
+Colab will ask:
+
+* Sign in to GitHub
+* Grant access
+
+Click:
+
+```text id="rjlwm1"
+Authorize Google Colab
+```
+
+---
+
+## Step 4: Select Repository
+
+Choose:
+
+* repository name
+* branch
+* commit message
+
+Then click:
+
+```text id="jlwmr2"
+OK
+```
+
+Your notebook uploads to GitHub.
+
+---
+
+# Method 2: Use Git Commands in Colab (Professional Method)
+
+---
+
+# Step 1: Configure Git
+
+Run:
+
+```python id="1sjb0g"
+!git config --global user.name "YOUR_NAME"
+!git config --global user.email "YOUR_EMAIL"
+```
+
+Example:
+
+```python id="jlwmr3"
+!git config --global user.name "Rahul"
+!git config --global user.email "rahul@gmail.com"
+```
+
+---
+
+# Step 2: Generate GitHub Personal Access Token
+
+Open:
+
+[GitHub Tokens](https://github.com/settings/tokens?utm_source=chatgpt.com)
+
+---
+
+## Create Token
+
+Choose:
+
+* Generate new token
+* Select:
+
+  * repo
+  * workflow
+
+Copy token.
+
+---
+
+# Step 3: Clone Repository
+
+```python id="jlwmr4"
+!git clone https://YOUR_TOKEN@github.com/USERNAME/REPOSITORY.git
+```
+
+Example:
+
+```python id="jlwmr5"
+!git clone https://ghp_xxxx@github.com/rahul/ai-project.git
+```
+
+---
+
+# Step 4: Move into Repository
+
+```python id="jlwmr6"
+%cd REPOSITORY_NAME
+```
+
+---
+
+# Step 5: Create File
+
+```python id="jlwmr7"
+%%writefile app.py
+
+print("Hello GitHub")
+```
+
+---
+
+# Step 6: Add Files
+
+```python id="jlwmr8"
+!git add .
+```
+
+---
+
+# Step 7: Commit Changes
+
+```python id="jlwmr9"
+!git commit -m "Added app.py"
+```
+
+---
+
+# Step 8: Push to GitHub
+
+```python id="jlwmra"
+!git push origin main
+```
+
+---
+
+# Method 3: Upload Entire Colab Project to GitHub
+
+---
+
+## Zip Project
+
+```python id="jlwmrb"
+!zip -r project.zip .
+```
+
+Download and upload manually to GitHub.
+
+---
+
+# Method 4: Save Notebook Automatically
+
+In Colab:
+
+```text id="jlwmrc"
+File → Save a copy in GitHub
+```
+
+This directly saves `.ipynb`.
+
+---
+
+# Best Practice for AI Projects
+
+Repository Structure:
+
+```text id="jlwmrd"
+project/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── .env
+└── data/
+```
+
+---
+
+# Important Security Tip
+
+Never upload:
+
+* API keys
+* `.env`
+* secrets
+
+Create `.gitignore`:
+
+```python id="jlwmre"
+%%writefile .gitignore
+
+.env
+*.key
+```
+
+---
+
+# Create requirements.txt
+
+```python id="jlwmrf"
+%%writefile requirements.txt
+
+streamlit
+google-generativeai
+langchain
+openai
+```
+
+---
+
+# Check Git Status
+
+```python id="jlwmrg"
+!git status
+```
+
+---
+
+# Pull Latest Code
+
+```python id="jlwmrh"
+!git pull origin main
+```
+
+---
+
+# Push AI Chatbot Project Example
+
+```python id="jlwmri"
+!git add .
+!git commit -m "Added Gemini Chatbot"
+!git push
+```
+
+---
+
+# Recommended for Beginners
+
+| Method         | Difficulty |
+| -------------- | ---------- |
+| Save to GitHub | Easy       |
+| Git Commands   | Medium     |
+| GitHub Tokens  | Medium     |
+| GitHub Actions | Advanced   |
+
+---
+
+# Best Platforms for AI Projects
+
+| Platform                                                                 | Purpose           |
+| ------------------------------------------------------------------------ | ----------------- |
+| [GitHub](https://github.com?utm_source=chatgpt.com)                      | Code Hosting      |
+| [Google Colab](https://colab.research.google.com?utm_source=chatgpt.com) | AI Coding         |
+| [Hugging Face](https://huggingface.co?utm_source=chatgpt.com)            | AI Models         |
+| [Streamlit Cloud](https://streamlit.io/cloud?utm_source=chatgpt.com)     | AI App Deployment |
+
+
+
+
+# How to Upload Huge Files (>25MB) to GitHub
+GitHub normally blocks files larger than:
+
+* 25 MB warning
+* 100 MB hard limit
+
+For large AI/ML files use:
+
+* Git LFS (Large File Storage)
+
+---
+
+# Best Method: Git LFS
+
+Git LFS is used for:
+
+* models
+* datasets
+* PDFs
+* videos
+* checkpoints
+* zip files
+
+---
+
+# Step-by-Step Process
+
+---
+
+# Step 1: Install Git LFS
+
+## Windows
+
+Download:
+
+[Git LFS Download](https://git-lfs.com?utm_source=chatgpt.com)
+
+Install normally.
+
+---
+
+## Verify Installation
+
+Open terminal:
+
+```bash id="u8hzjg"
+git lfs install
+```
+
+Expected:
+
+```text id="o0l5zk"
+Git LFS initialized.
+```
+
+---
+
+# Step 2: Clone Repository
+
+```bash id="2ljlwm"
+git clone https://github.com/USERNAME/REPO.git
+```
+
+Example:
+
+```bash id="jlwmm1"
+git clone https://github.com/rahul/ai-project.git
+```
+
+---
+
+# Step 3: Move into Repository
+
+```bash id="jlwmm2"
+cd ai-project
+```
+
+---
+
+# Step 4: Track Large Files
+
+Example for ZIP files:
+
+```bash id="jlwmm3"
+git lfs track "*.zip"
+```
+
+Example for model files:
+
+```bash id="jlwmm4"
+git lfs track "*.bin"
+```
+
+Example for PDFs:
+
+```bash id="jlwmm5"
+git lfs track "*.pdf"
+```
+
+---
+
+# Step 5: Check `.gitattributes`
+
+Git automatically creates:
+
+```text id="jlwmm6"
+.gitattributes
+```
+
+Example content:
+
+```text id="jlwmm7"
+*.zip filter=lfs diff=lfs merge=lfs -text
+```
+
+---
+
+# Step 6: Add Huge File
+
+Example:
+
+```bash id="jlwmm8"
+git add large_model.bin
+```
+
+OR
+
+```bash id="jlwmm9"
+git add .
+```
+
+---
+
+# Step 7: Commit
+
+```bash id="jlwmma"
+git commit -m "Added large files using Git LFS"
+```
+
+---
+
+# Step 8: Push to GitHub
+
+```bash id="jlwmmb"
+git push origin main
+```
+
+---
+
+# Example for AI Projects
+
+Upload:
+
+* LLM models
+* datasets
+* FAISS indexes
+* videos
+* PDFs
+
+---
+
+# Example AI Repository Structure
+
+```text id="jlwmmc"
+project/
+│
+├── app.py
+├── models/
+│   └── llama.bin
+├── data/
+│   └── dataset.csv
+├── vector_db/
+│   └── faiss_index
+└── requirements.txt
+```
+
+---
+
+# Upload Huge Files from Google Colab
+
+---
+
+# Step 1: Install Git LFS
+
+```python id="jlwmmd"
+!apt-get install git-lfs
+```
+
+---
+
+# Step 2: Initialize
+
+```python id="jlwmme"
+!git lfs install
+```
+
+---
+
+# Step 3: Clone Repo
+
+```python id="jlwmmf"
+!git clone https://YOUR_TOKEN@github.com/USERNAME/REPO.git
+```
+
+---
+
+# Step 4: Track Large Files
+
+```python id="jlwmmg"
+!git lfs track "*.pdf"
+```
+
+---
+
+# Step 5: Add Files
+
+```python id="jlwmmh"
+!git add .
+```
+
+---
+
+# Step 6: Commit
+
+```python id="jlwmmi"
+!git commit -m "Added huge files"
+```
+
+---
+
+# Step 7: Push
+
+```python id="jlwmmj"
+!git push origin main
+```
+
+---
+
+# GitHub LFS Free Limits
+
+| Limit     | Free Tier  |
+| --------- | ---------- |
+| Storage   | 1 GB       |
+| Bandwidth | 1 GB/month |
+
+---
+
+# If File is Above 100 MB
+
+Normal GitHub push fails:
+
+```text id="jlwmmk"
+remote: error: File is 120.00 MB
+```
+
+Git LFS solves this.
+
+---
+
+# Alternative Methods for Huge Files
+
+| Platform                                                          | Best For  |
+| ----------------------------------------------------------------- | --------- |
+| [Google Drive](https://drive.google.com?utm_source=chatgpt.com)   | Datasets  |
+| [Hugging Face Hub](https://huggingface.co?utm_source=chatgpt.com) | AI Models |
+| [Kaggle](https://www.kaggle.com?utm_source=chatgpt.com)           | Data      |
+| [Dropbox](https://www.dropbox.com?utm_source=chatgpt.com)         | Files     |
+
+---
+
+# Best Practice for AI/ML Projects
+
+Use GitHub for:
+
+* code
+* notebooks
+* configs
+
+Use external storage for:
+
+* large models
+* datasets
+* videos
+
+---
+
+# Upload Directly from VS Code
+
+In terminal:
+
+```bash id="jlwmml"
+git lfs install
+git lfs track "*.bin"
+git add .
+git commit -m "Large model upload"
+git push
+```
+
+---
+
+# Check LFS Files
+
+```bash id="jlwmmm"
+git lfs ls-files
+```
+
+---
+
+# Remove Large File from Git History
+
+```bash id="jlwmmn"
+git rm --cached largefile.zip
+```
+
+Then recommit using LFS.
+
+---
+
+# Best File Types for Git LFS
+
+| File Type | Example               |
+| --------- | --------------------- |
+| Models    | `.bin`, `.pt`, `.pth` |
+| Data      | `.csv`, `.zip`        |
+| PDFs      | `.pdf`                |
+| Videos    | `.mp4`                |
+| Vector DB | FAISS indexes         |
