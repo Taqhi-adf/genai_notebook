@@ -1,30 +1,20 @@
 # Generative AI (GenAI) — Short Description
-
 Generative AI (GenAI) is a type of Artificial Intelligence that can create new content such as:
-
 * text
 * images
 * videos
 * code
 * audio
 * chat responses
-
 using large AI models trained on huge amounts of data.
-
 Examples:
-
 * OpenAI ChatGPT
 * Google Gemini
 * Anthropic Claude
-
 ---
-
 # Present Market Situation of GenAI
-
 Currently, GenAI is one of the fastest-growing technologies in the world.
-
 Companies are heavily investing in:
-
 * AI chatbots
 * AI agents
 * Automation
@@ -33,7 +23,6 @@ Companies are heavily investing in:
 * AI business tools
 
 Industries using GenAI:
-
 * Healthcare
 * Banking
 * Education
@@ -42,129 +31,80 @@ Industries using GenAI:
 * Marketing
 * Cybersecurity
 
----
-
 # Most Important Skills to Focus On in 2026
-
 ## 1. Python Programming
-
 Most AI tools use Python.
-
 Focus:
-
 * loops
 * functions
 * APIs
 * file handling
-
----
-
 ## 2. Prompt Engineering
-
 Writing smart prompts for AI models.
-
 Example:
-
 ```text id="0o5v2w"
 Act as a medical expert and explain diabetes simply.
-```
-
----
 
 ## 3. LLMs (Large Language Models)
-
 Understand:
-
 * tokens
 * embeddings
 * transformers
 * context windows
 
 Popular models:
-
 * GPT
 * Gemini
 * Claude
 * Llama
 
----
-
 ## 4. AI APIs
-
 Learn APIs from:
-
 * [OpenAI Platform](https://platform.openai.com?utm_source=chatgpt.com)
 * [Google AI Studio](https://aistudio.google.com?utm_source=chatgpt.com)
 * [Anthropic Claude](https://www.anthropic.com/claude?utm_source=chatgpt.com)
 
----
-
 ## 5. RAG (Retrieval-Augmented Generation)
-
 Very high demand skill.
-
 Used for:
-
 * PDF chatbots
 * company AI assistants
 * search systems
-
 Learn:
-
 * LangChain
 * FAISS
 * Vector databases
-
 ---
-
 ## 6. AI Agents
-
 Fastest growing field.
-
 AI agents can:
-
 * think
 * plan
 * use tools
 * automate workflows
 
 Tools:
-
 * LangGraph
 * CrewAI
 * n8n
 
----
-
 ## 7. Streamlit & FastAPI
-
 Needed to deploy AI applications.
-
 You can build:
-
 * AI chatbots
 * dashboards
 * AI tools
 * websites
 
----
-
 ## 8. Open Source Models
-
 Huge demand in companies.
-
 Learn:
-
 * [Hugging Face](https://huggingface.co?utm_source=chatgpt.com)
 * Llama
 * Mistral
 * DeepSeek
 * Qwen
-
----
-
 # Current High Demand GenAI Jobs
-
 | Role               | Demand         |
 | ------------------ | -------------- |
 | AI Engineer        | Very High      |
@@ -173,11 +113,8 @@ Learn:
 | AI Agent Developer | Extremely High |
 | RAG Engineer       | High           |
 | LLM Engineer       | Very High      |
-
 ---
-
 # Best Learning Path
-
 | Step | Focus              |
 | ---- | ------------------ |
 | 1    | Python             |
@@ -190,22 +127,15 @@ Learn:
 | 8    | Deployment         |
 
 ---
-
 # Important Market Trend
-
 Companies now prefer people who can:
-
 * build AI projects
 * deploy apps
 * automate workflows
 * integrate APIs
 
-More than only theory.
-
 ---
-
 # Best Projects to Build
-
 * AI chatbot
 * Resume analyzer
 * Medical chatbot
@@ -215,36 +145,24 @@ More than only theory.
 * Recommendation system
 
 These improve job opportunities strongly in current AI markets.
-
-
+------------------------------------------------------------------------------------------------------------------------------------------------
 # What is Generative AI (GenAI)?
-
 Generative AI (GenAI) is a type of Artificial Intelligence that can create new content like:
-
 * text
 * images
 * videos
 * music
 * code
 * chat responses
-
 by learning from large amounts of data.
-
 ---
-
 # Simple Meaning
-
 Normal AI:
-
 * analyzes data
 * predicts answers
-
 GenAI:
-
 * creates new things
-
 Example:
-
 If you ask:
 
 ```text id="w8yivw"
